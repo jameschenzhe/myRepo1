@@ -3,4 +3,6 @@ public class User() {
 	private String name;
 	// add property 'address'.
 	private String address;
+	// add property 'age'.
+	private int age;
 }
